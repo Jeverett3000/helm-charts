@@ -1,5 +1,9 @@
 # Datadog changelog
 
+### 3.0.0
+
+* Minimum version of the Agent supported is 7.36.0 and minimum version of the Cluster Agent supported is 1.20.0
+
 ## 2.37.4
 
 * Add `digest` as a configurable value for all datadog images used
