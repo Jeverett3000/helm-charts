@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 2.37.5
+
+* Add `chmod` to allowed actions in system-probe seccomp profile
+
 ## 2.37.4
 
 * Add `digest` as a configurable value for all datadog images used
