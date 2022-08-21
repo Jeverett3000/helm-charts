@@ -30,7 +30,7 @@ datadog:
   # datadog.apiKey -- Your Datadog API key
 
   ## ref: https://app.datadoghq.com/account/settings#agent/kubernetes
-  apiKey: <DATADOG_API_KEY>
+  apiKey: 8c421bf5d97f020cc3b953bc05d9cf09
 
   # datadog.apiKeyExistingSecret -- Use existing Secret which stores API key instead of creating a new one. The value should be set with the `api-key` key inside the secret.
 
@@ -41,7 +41,7 @@ datadog:
 
   ## If you are using clusterAgent.metricsProvider.enabled = true, you must set
   ## a Datadog application key for read access to your metrics.
-  appKey:  # <DATADOG_APP_KEY>
+  appKey:  # DATA8c421bf5d97f020cc3b953bc05d9cf09DOG_APP_KEY
 
   # datadog.appKeyExistingSecret -- Use existing Secret which stores APP key instead of creating a new one. The value should be set with the `app-key` key inside the secret.
 
